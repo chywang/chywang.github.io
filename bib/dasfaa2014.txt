@@ -1,0 +1,15 @@
+@inproceedings{dasfaa2014,
+  author    = {Leyi Song and
+               Chengyu Wang and
+               Xiaoyi Duan and
+               Bing Xiao and
+               Xiao Liu and
+               Rong Zhang and
+               Xiaofeng He and
+               Xueqing Gong},
+  title     = {TaxiHailer: {A} Situation-Specific Taxi Pick-Up Points Recommendation
+               System},
+  booktitle = {Proceedings of the 19th International Conference on Database Systems for Advanced Applications, Part {II}},
+  pages     = {523--526},
+  year      = {2014}
+}

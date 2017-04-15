@@ -1,0 +1,10 @@
+@inproceedings{desweb2015,
+  author    = {Chengyu Wang and
+               Ming Gao and
+               Xiaofeng He and
+               Rong Zhang},
+  title     = {Challenges in Chinese knowledge graph construction},
+  booktitle = {Proceedings of the 31st {IEEE} International Conference on Data Engineering Workshops},
+  pages     = {59--61},
+  year      = {2015}
+}

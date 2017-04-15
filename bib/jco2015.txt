@@ -1,0 +1,14 @@
+@article{jco2015,
+  author    = {Jihong Yan and
+               Wenliang Cheng and
+               Chengyu Wang and
+               Jun Liu and
+               Ming Gao and
+               Aoying Zhou},
+  title     = {Optimizing word set coverage for multi-event summarization},
+  journal   = {J. Comb. Optim.},
+  volume    = {30},
+  number    = {4},
+  pages     = {996--1015},
+  year      = {2015}
+}

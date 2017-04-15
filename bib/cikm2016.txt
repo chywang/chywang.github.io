@@ -1,0 +1,11 @@
+@inproceedings{cikm2016,
+  author    = {Chengyu Wang and
+               Rong Zhang and
+               Xiaofeng He and
+               Aoying Zhou},
+  title     = {Error Link Detection and Correction in Wikipedia},
+  booktitle = {Proceedings of the 25th {ACM} International on Conference on Information
+               and Knowledge Management},
+  pages     = {307--316},
+  year      = {2016}
+}

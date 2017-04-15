@@ -1,0 +1,11 @@
+@inproceedings{apweb2015,
+  author    = {Jinyang Li and
+               Chengyu Wang and
+               Xiaofeng He and
+               Rong Zhang and
+               Ming Gao},
+  title     = {User Generated Content Oriented Chinese Taxonomy Construction},
+  booktitle = {Proceedings of the 17th Asia-Pacific Web Conference},
+  pages     = {623--634},
+  year      = {2015}
+}

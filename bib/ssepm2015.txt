@@ -1,0 +1,12 @@
+@inproceedings{ssepm2015,
+  author    = {Fan Xia and
+               Qunyan Zhang and
+               Chengyu Wang and
+               Weining Qian and
+               Aoying Zhou},
+  title     = {On the rise and fall of Sina Weibo: Analysis based on a fixed user
+               group},
+  booktitle = {Proceedings of the 31st {IEEE} International Conference on Data Engineering Workshops},
+  pages     = {224--231},
+  year      = {2015}
+}

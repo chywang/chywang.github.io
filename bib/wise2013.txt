@@ -1,0 +1,12 @@
+@inproceedings{wise2013,
+  author    = {Chengyu Wang and
+               Bing Xiao and
+               Xiang Li and
+               Jiawen Zhu and
+               Xiaofeng He and
+               Rong Zhang},
+  title     = {Predicting Users' Age Range in Micro-blog Network},
+  booktitle = {Proceedings of the 14th International Conference on Web Information Systems Engineering, Part {I}},
+  pages     = {516--521},
+  year      = {2013}
+}

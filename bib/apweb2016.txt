@@ -1,0 +1,11 @@
+@inproceedings{apweb2016,
+  author    = {Chengyu Wang and
+               Rong Zhang and
+               Xiaofeng He and
+               Guomin Zhou and
+               Aoying Zhou},
+  title     = {NERank: Bringing Order to Named Entities from Texts},
+  booktitle = {Proceedings of the 18th Asia-Pacific Web Conference},
+  pages     = {15--27},
+  year      = {2016}
+ }

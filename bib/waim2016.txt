@@ -1,0 +1,11 @@
+@inproceedings{waim2016,
+  author    = {Chi Zhang and
+               Yanhua Wang and
+               Chengyu Wang and
+               Wenliang Cheng and
+               Xiaofeng He},
+  title     = {SNExtractor: A Prototype for Extracting Semantic Networks from Web Documents},
+  booktitle = {Proceedings of the 17th International Conference on Web-Age Information Management, Part {II}},
+  pages     = {527--530},
+  year      = {2016}
+}

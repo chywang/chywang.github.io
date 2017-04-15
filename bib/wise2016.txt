@@ -1,0 +1,11 @@
+@inproceedings{wise2016,
+  author    = {Chengyu Wang and
+               Rong Zhang and
+               Xiaofeng He and
+               Guomin Zhou and
+               Aoying Zhou},
+  title     = {Event Phase Extraction and Summarization},
+  booktitle = {Proceedings of the 17th International Conference on Web Information Systems Engineering, Part {I}},
+  pages     = {473--488},
+  year      = {2016}
+}

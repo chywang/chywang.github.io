@@ -1,0 +1,10 @@
+@inproceedings{www2016,
+  author    = {Chengyu Wang and
+               Rong Zhang and
+               Xiaofeng He and
+               Aoying Zhou},
+  title     = {NERank: Ranking Named Entities in Document Collections},
+  booktitle = {Proceedings of the 25th International Conference on World Wide Web, Companion Volume},
+  pages     = {123--124},
+  year      = {2016}
+}

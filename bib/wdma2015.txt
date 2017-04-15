@@ -1,0 +1,12 @@
+@inproceedings{wdma2015,
+  author    = {Yonghao Su and
+               Chi Zhang and
+               Jinyang Li and
+               Chengyu Wang and
+               Weining Qian and
+               Aoying Zhou},
+  title     = {Cross-Lingual Entity Query from Large-Scale Knowledge Graphs},
+  booktitle = {Proceedings of the 17th Asia-Pacific Web Conference Workshops},
+  pages     = {139--150},
+  year      = {2015}
+}

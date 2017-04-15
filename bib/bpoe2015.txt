@@ -1,0 +1,11 @@
+@inproceedings{bpoe2015,
+  author    = {Wenliang Cheng and
+               Chengyu Wang and
+               Bing Xiao and
+               Weining Qian and
+               Aoying Zhou},
+  title     = {On Statistical Characteristics of Real-Life Knowledge Graphs},
+  booktitle = {Proceedings of the 6th Workshop on Big Data Benchmarks, Performance Optimization, and Emerging Hardware},
+  pages     = {37--49},
+  year      = {2015}
+}

@@ -1,0 +1,11 @@
+@inproceedings{dasfaa2017,
+  author    = {Yan Fan and
+               Chengyu Wang and
+               Guomin Zhou and
+               Xiaofeng He},
+  title     = {DKGBuilder: An Architecture for Building a Domain Knowledge Graph
+               from Scratch},
+  booktitle = {Proceedings of the 22nd International Conference on Database Systems for Advanced Applications, Part {II}},
+  pages     = {663--667},
+  year      = {2017}
+}
