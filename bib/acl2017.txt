@@ -1,0 +1,10 @@
+@inproceedings{acl2017,
+  author    = {Chengyu Wang and
+               Junchi Yan and
+               Aoying Zhou and
+               Xiaofeng He},
+  title     = {Transductive Non-linear Learning for Chinese Hypernym Prediction},
+  booktitle = {Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics},
+  pages     = {1394–1404},
+  year      = {2017}
+}
