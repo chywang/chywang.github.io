@@ -1,0 +1,9 @@
+@inproceedings{icbk2017a,
+  author    = {Ruolan Yong and
+		Chengyu Wang and
+               Xiaofeng He},
+  title     = {A Transfer Learning based Boosting Model for Emotion Analysis},
+  booktitle = {Proceedings of 2017 IEEE International Conference on Big Knowledge},
+  pages     = {264–269},
+  year      = {2017}
+}

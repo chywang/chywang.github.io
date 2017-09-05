@@ -1,0 +1,10 @@
+@inproceedings{icbk2017b,
+  author    = {Lu Wang and
+		Chengyu Wang and
+		Keqiang Wang and
+               Xiaofeng He},
+  title     = {BiUCB: A Contextual Bandit Algorithm for Cold-Start and Diversified Recommendation},
+  booktitle = {Proceedings of 2017 IEEE International Conference on Big Knowledge},
+  pages     = {248–253},
+  year      = {2017}
+}
