@@ -1,0 +1,10 @@
+@inproceedings{emnlp2017a,
+  author    = {Chengyu Wang and
+               Yan Fan and
+               Xiaofeng He and
+               Aoying Zhou},
+  title     = {Learning Fine-grained Relations from Chinese User Generated Categories},
+  booktitle = {Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing},
+  pages     = {2567–2577},
+  year      = {2017}
+}

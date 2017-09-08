@@ -1,0 +1,9 @@
+@inproceedings{emnlp2017b,
+  author    = {Chengyu Wang and
+               Xiaofeng He and
+               Aoying Zhou},
+  title     = {A Short Survey on Taxonomy Learning from Text Corpora: Issues, Resources and Recent Advances},
+  booktitle = {Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing},
+  pages     = {1201–1214},
+  year      = {2017}
+}
