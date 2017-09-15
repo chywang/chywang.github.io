@@ -1,0 +1,10 @@
+@inproceedings{icbk2017c,
+  author    = {Kun Wang and
+		Guohai Xu and
+		Chengyu Wang and
+               Xiaofeng He},
+  title     = {A Hybrid Abnormal Advertising Traffic Detection Method},
+  booktitle = {Proceedings of 2017 IEEE International Conference on Big Knowledge},
+  pages     = {236–241},
+  year      = {2017}
+}
