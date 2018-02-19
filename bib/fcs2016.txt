@@ -6,7 +6,9 @@
                Aoying Zhou},
   title     = {A retrospective of knowledge graphs},
   journal   = {Frontiers of Computer Science},
-  doi       = {10.1007/s11704-016-5228-9},
-  pages     = {1--20},
-  year      = {2016}
+  volume    = {12},
+  number    = {1},
+  pages     = {55--74},
+  year      = {2018},
+  doi       = {10.1007/s11704-016-5228-9}
 }

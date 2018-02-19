@@ -1,0 +1,11 @@
+@article{kais2018,
+  author    = {Chengyu Wang and
+               Yan Fan and
+               Xiaofeng He and
+               Aoying Zhou},
+  title     = {Predicting hypernym--hyponym relations for Chinese taxonomy learning},
+  journal   = {Knowledge and Information Systems},
+  year      = {2018},
+  doi       = {10.1007/s10115-018-1166-1}
+}
+
