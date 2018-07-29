@@ -1,0 +1,9 @@
+@inproceedings{apweb2018,
+   author    = {Guohai Xu and
+                Chengyu Wang and
+                Xiaofeng He},
+   title     = {Improving Clinical Named Entity Recognition with Global Neural Attention},
+   booktitle = {The Second APWeb-WAIM International Joint Conference on Web and Big Data},
+   pages     = {264--279},
+   year      = {2018}
+ }
