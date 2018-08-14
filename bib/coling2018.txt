@@ -1,0 +1,9 @@
+@inproceedings{coling2018,
+  author    = {Yan Fan and
+		Chengyu Wang and
+               Xiaofeng He},
+  title     = {Exploratory Neural Relation Classification for Domain Knowledge Acquisition},
+  booktitle = {Proceedings of the 27th International Conference on Computational Linguistics},
+  pages     = {2265--2276},
+  year      = {2018}
+}
