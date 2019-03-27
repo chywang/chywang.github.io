@@ -5,7 +5,8 @@
                Aoying Zhou},
   title     = {Predicting hypernym--hyponym relations for Chinese taxonomy learning},
   journal   = {Knowledge and Information Systems},
-  year      = {2018},
-  doi       = {10.1007/s10115-018-1166-1}
+  volume    = {58},
+  number    = {3},
+  pages     = {585--610},
+  year      = {2019}
 }
-
