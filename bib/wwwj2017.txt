@@ -3,8 +3,9 @@
                Xiaofeng He and
                Aoying Zhou},
   title     = {Event phase oriented news summarization},
-  journal   = {World Wide Web-internet & Web Information Systems},
-  doi       = {10.1007/s11280-017-0501-x},
-  pages     = {1--24},
-  year      = {2017}
+   journal   = {World Wide Web},
+  volume    = {21},
+  number    = {4},
+  pages     = {1069--1092},
+  year      = {2018}
 }

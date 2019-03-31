@@ -4,8 +4,9 @@
                Xiaofeng He and
                Aoying Zhou},
   title     = {NERank+: a graph-based approach for entity ranking in document collections},
-  journal   = {Frontiers of Computer Science},
-  doi       = {10.1007/s11704-017-6471-4},
-  pages     = {1–14},
-  year      = {2017}
+  journal   = {Frontiers Comput. Sci.},
+  volume    = {12},
+  number    = {3},
+  pages     = {504--517},
+  year      = {2018}
 }
