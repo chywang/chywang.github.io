@@ -1,0 +1,8 @@
+@article{kais2019,
+  author    = {Chengyu Wang and
+               Xiaofeng He and
+               Aoying Zhou},
+  title     = {HEEL: exploratory entity linking for heterogeneous information networks},
+  journal   = {Knowledge and Information Systems},
+  year      = {2019}
+}
