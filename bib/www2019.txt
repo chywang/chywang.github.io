@@ -1,0 +1,10 @@
+@inproceedings{www2019,
+  author    = {Chengyu Wang and
+               Yan Fan and
+               Xiaofeng He and
+               Aoying Zhou},
+  title     = {A Family of Fuzzy Orthogonal Projection Models for Monolingual and Cross-lingual Hypernymy Prediction},
+  booktitle = {Proceedings of the 2019 World Wide Web Conference},
+  pages     = {1965--1976},
+  year      = {2019}
+}
