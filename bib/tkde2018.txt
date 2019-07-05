@@ -1,0 +1,12 @@
+@article{tkde2018,
+  author    = {Chengyu Wang and
+               Yan Fan and
+               Xiaofeng He and
+               Aoying Zhou},
+  title     = {Decoding Chinese User Generated Categories for Fine-Grained Knowledge Harvesting},
+  journal   = {IEEE Transactions on Knowledge and Data Engineering},
+  volume    = {31},
+  number    = {8},
+  pages     = {1491–1505},
+  year      = {2019}
+}
