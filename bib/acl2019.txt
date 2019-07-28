@@ -1,0 +1,9 @@
+@inproceedings{acl2019,
+  author    = {Chengyu Wang and
+		Xiaofeng He and
+               Aoying Zhou},
+  title     = {SphereRE: Distinguishing Lexical Relations with Hyperspherical Relation Embeddings},
+  booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics},
+  pages     = {1727–1737},
+  year      = {2019}
+}
