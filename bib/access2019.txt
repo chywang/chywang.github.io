@@ -1,0 +1,12 @@
+@article{access2019,
+  author    = {Chengyu Wang and
+               Yan Fan and
+               Xiaofeng He and
+               Hongyuan Zha and
+               Aoying Zhou},
+  title     = {Idiomaticity Prediction of Chinese Noun Compounds and Its Applications},
+  journal   = {{IEEE} Access},
+  volume    = {7},
+  pages     = {142866--142878},
+  year      = {2019}
+}

@@ -5,5 +5,5 @@
   title     = {Improving Hypernymy Prediction via Taxonomy Enhanced Adversarial Learning},
   booktitle = {Proceedings of the 33rd AAAI Conference on Artificial Intelligence},
   year      = {2019},
-  pages     = {7128–7135},
+  pages     = {7128–7135}
 }
