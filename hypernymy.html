@@ -41,7 +41,19 @@
             <h2 class="fn">Return to <a href="index.html">Home Page</a>.</h1>
 	        <div class="clear"><br/></div>
 			
+			
+			<p>This groups of projects aims at designing distributional models for monolingual and cross-lingual hypernymy ("is-a") prediction, consisting of four softwares:
+			<ul>
+			<li><b>CN-IterativeIsALearner:</b> Iterative Extraction of Chinese Hypernymy Relations from User Generated Categories</li>
+			<li><b>CN-TransductIsALearner:</b> Transductive Classification of Chinese Hypernymy vs. Non-hypernymy Relations Based on Word Embeddings</li>
+			<li><b>TEAL:</b> The Taxonomy Enhanced Adversarial Learning Framework for Hypernymy Prediction</li>
+			<li><b>FOP:</b> Fuzzy Orthogonal Projection Models for Monolingual and Cross-lingual Hypernymy Prediction</li>
+			</ul>
+			CN-IterativeIsALearner and CN-TransductIsALearner employ word embedding based projection models to extract Chinese hypernymy relations. TEAL and FOP are extended algorithms of CN-IterativeIsALearner and CN-TransductIsALearner. TEAL is an adversarial learning framework to extract hypernymy relations based on existing taxonomies. FOP further considers cross-lingual approaches to harvest hypernymy relations for low-resourced languages.
+			</p>
+			
             <dd>
+				
 				<h2>CN-IterativeIsALearner: Iterative Extraction of Chinese Hypernymy Relations from User Generated Categories [Java]</h2>
 				<p>This software automatically extracts Chinese hypernymy relations from user generated entity-category pairs, based on a small training set of hypernymy relations. It iteratively updates the parameters of a piecewise linear projection model for hypernymy prediction via semi-supervised learning and pattern-based validation techniques. The projection model is trained using word embeddings of the iteratively enlarged training set.</p>
 				<p><b>Papers:</b><br/>
