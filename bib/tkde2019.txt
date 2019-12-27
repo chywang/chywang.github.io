@@ -1,0 +1,9 @@
+@article{tkde2019,
+  author    = {Chengyu Wang and
+               Xiaofeng He and
+               Aoying Zhou},
+  title     = {Open Relation Extraction for Chinese Noun Phrases},
+  journal   = {IEEE Transactions on Knowledge and Data Engineering},
+  doi = {10.1109/TKDE.2019.2953839},
+  year      = {2019}
+}
