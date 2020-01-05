@@ -42,15 +42,15 @@
 	        <div class="clear"><br/></div>
 			
 			
-			<p>This groups of projects aims at designing distributional models for monolingual and cross-lingual hypernymy ("is-a") prediction, consisting of four softwares:
+			<p>This groups of projects aims at designing distributional models for monolingual and cross-lingual hypernymy ("is-a") prediction, consisting of five softwares:
 			<ul>
 			<li><b>CN-IterativeIsALearner:</b> Iterative Extraction of Chinese Hypernymy Relations from User Generated Categories</li>
 			<li><b>CN-TransductIsALearner:</b> Transductive Classification of Chinese Hypernymy vs. Non-hypernymy Relations Based on Word Embeddings</li>
 			<li><b>TEAL:</b> The Taxonomy Enhanced Adversarial Learning Framework for Hypernymy Prediction</li>
 			<li><b>FOP:</b> Fuzzy Orthogonal Projection Models for Monolingual and Cross-lingual Hypernymy Prediction</li>
+			<li><b>SphereRE:</b> Distinguishing Lexical Relations with Hyperspherical Relation Embeddings</li>	
 			</ul>
-			CN-IterativeIsALearner and CN-TransductIsALearner employ word embedding based projection models to extract Chinese hypernymy relations. TEAL and FOP are extended algorithms of CN-IterativeIsALearner and CN-TransductIsALearner. TEAL is an adversarial learning framework to extract hypernymy relations based on existing taxonomies. FOP further considers cross-lingual approaches to harvest hypernymy relations for low-resourced languages.
-			</p>
+		</p>
 			
             <dd>
 				
@@ -78,6 +78,12 @@
 				<p>This software is the implementation of three fuzzy orthogonal projection models for both monolingual and cross-lingual hypernymy prediction. A Multi-Wahba Projection (MWP) model is designed to distinguish monolingual hypernymy vs. non-hypernymy relations based on word embeddings. The Transfer MWP (TMWP) model and the Iterative Transfer MWP (ITMWP) model are implemented for cross-lingual hypernymy prediction, which transfer the semantic knowledge from the source language to target languages based on neural word translation.</p>
 				<p><b>Paper:</b> Wang et al. A Family of Fuzzy Orthogonal Projection Models for Monolingual and Cross-lingual Hypernymy Prediction. WWW 2019</p>
 				<p><b>Software:</b> Refer to the GitHub page <a href="https://github.com/chywang/FOP">here</a>.</p>
+				<div class="clear"><br/></div>
+				
+				<h2>SphereRE: Distinguishing Lexical Relations with Hyperspherical Relation Embeddings [Python]</h2>
+				<p>This software does supevised lexical relation classification based on word embeddings. The model learns representations of lexical relation triples by mapping them to the hyperspherical embedding space, where relation triples of different lexical relations are well separated. The types of lexical relations are classified based on hyperspherical relation embeddings and classifical word embeddings.</p>
+				<p><b>Paper:</b> Wang et al. SphereRE: Distinguishing Lexical Relations with Hyperspherical Relation Embeddings. ACL 2019</p>
+				<p><b>Software:</b> Refer to the GitHub page <a href="https://github.com/chywang/SphereRE">here</a>.</p>
 				<div class="clear"><br/></div>
 			
             </dd>
