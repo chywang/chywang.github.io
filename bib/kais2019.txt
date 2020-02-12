@@ -4,5 +4,8 @@
                Aoying Zhou},
   title     = {HEEL: exploratory entity linking for heterogeneous information networks},
   journal   = {Knowledge and Information Systems},
-  year      = {2019}
+  volume    = {62},
+  number    = {2},
+  pages     = {485–506},
+  year      = {2020}
 }
