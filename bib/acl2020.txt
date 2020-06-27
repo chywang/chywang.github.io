@@ -1,0 +1,8 @@
+@inproceedings{acl2020,
+  author    = {Chengyu Wang and
+		Xiaofeng He},
+  title     = {BiRRE: Learning Bidirectional Residual Relation Embeddings for Supervised Hypernymy Detection},
+  booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics},
+  pages     = {3630–3640},
+  year      = {2020}
+}
