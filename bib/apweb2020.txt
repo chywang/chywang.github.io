@@ -1,0 +1,9 @@
+@inproceedings{apweb2020,
+   author    = {Hui Cai and
+                Chengyu Wang and
+                Xiaofeng He},
+   title     = {Debiasing Learning to Rank Models with Generative Adversarial Networks},
+   booktitle = {Proceedings of the 4th APWeb-WAIM International Joint Conference on Web and Big Data},
+   pages     = {45--60},
+   year      = {2020}
+ }
