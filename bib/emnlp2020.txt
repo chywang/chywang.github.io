@@ -1,0 +1,10 @@
+@inproceedings{emnlp2020,
+  author    = {Chengyu Wang and
+               Minghui Qiu and
+               Jun Huang and
+               Xiaofeng He},
+  title     = {Meta Fine-Tuning Neural Language Models for Multi-Domain Text Mining},
+  booktitle = {Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing},
+  pages     = {3094–3104},
+  year      = {2020}
+}
