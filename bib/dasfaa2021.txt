@@ -1,0 +1,14 @@
+@inproceedings{dasfaa2021,
+  author    = {Cen Chen and
+               Xinjing Huang and
+               Feng Ji and
+               Chengyu Wang and
+               Minghui Qiu and
+               Jun Huang and
+               Yin Zhang},
+  title     = {CAT-BERT: A Context-Aware Transferable BERT Model for Multi-turn
+               Machine Reading Comprehension},
+  booktitle = {Proceedings of the 26th International Conference on Database Systems for Advanced Applications, Part {II}},
+  pages     = {152--167},
+  year      = {2021}
+}
