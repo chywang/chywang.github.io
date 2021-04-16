@@ -9,7 +9,7 @@
                Xueqing Gong},
   title     = {TaxiHailer: {A} Situation-Specific Taxi Pick-Up Points Recommendation
                System},
-  booktitle = {Proceedings of the 19th International Conference on Database Systems for Advanced Applications, Part {II}},
+  booktitle = {Proceedings of the 19th International Conference on Database Systems for Advanced Applications},
   pages     = {523--526},
   year      = {2014}
 }
