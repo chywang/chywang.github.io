@@ -4,6 +4,8 @@
                Aoying Zhou},
   title     = {Open Relation Extraction for Chinese Noun Phrases},
   journal   = {IEEE Transactions on Knowledge and Data Engineering},
-  doi = {10.1109/TKDE.2019.2953839},
-  year      = {2019}
+  volume    = {33},
+  number    = {6},
+  pages     = {2693–2708},
+  year      = {2021}
 }
