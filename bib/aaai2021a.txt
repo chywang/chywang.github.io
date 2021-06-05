@@ -1,0 +1,10 @@
+@inproceedings{aaai2021a,
+  author    = {Chengyu Wang and
+               Mengli Cheng and
+               Xu Hu and
+               Jun Huang},
+  title     = {EasyASR: A Distributed Machine Learning Platform for End-to-end Automatic Speech Recognition},
+  booktitle = {Proceedings of the 35th AAAI Conference on Artificial Intelligence},
+  year      = {2021},
+  pages     = {16111–16113}
+}
