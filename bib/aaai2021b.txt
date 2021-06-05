@@ -1,0 +1,10 @@
+@inproceedings{aaai2021b,
+  author    = {Chengyu Wang and
+               Minghui Qiu and
+               Jun Huang and
+               Xiaofeng He},
+  title     = {KEML: A Knowledge-Enriched Meta-Learning Framework for Lexical Relation Classification},
+  booktitle = {Proceedings of the 35th AAAI Conference on Artificial Intelligence},
+  year      = {2021},
+  pages     = {13924–13932}
+}
