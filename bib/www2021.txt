@@ -1,0 +1,12 @@
+@inproceedings{www2021,
+  author    = {Cen Chen and
+               Chengyu Wang and
+               Minghui Qiu and
+               Dehong Gao and
+               Jinbo Lin and
+               Li Wang},
+  title     = {Cross-domain Knowledge Distillation for Retrieval-based Question Answering Systems},
+  booktitle = {Proceedings of the Web Conference 2021},
+  pages     = {2613--2623},
+  year      = {2021}
+}
