@@ -1,0 +1,12 @@
+@inproceedings{acl2021a,
+  author    = {Haojie Pan and
+                Chengyu Wang and
+                Minghui Qiu and
+                Yichang Zhang and
+                Yaliang Li and
+                Jun Huang},
+  title     = {Meta-KD: A Meta Knowledge Distillation Framework for Language Model Compression across Domains},
+  booktitle = {Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing},
+  pages     = {3026–3036},
+  year      = {2021}
+}
