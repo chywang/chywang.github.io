@@ -1,0 +1,13 @@
+@inproceedings{acl2021c,
+  author    = {Taolin Zhang and
+                Chengyu Wang and
+                Minghui Qiu and
+                Bite Yang and
+                Zerui Cai and
+                Xiaofeng He and
+                Jun Huang},
+  title     = {Knowledge-Empowered Representation Learning for Chinese Medical Reading Comprehension: Task, Model and Resources},
+  booktitle = {Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021},
+  pages     = {2237–2249},
+  year      = {2021}
+}
