@@ -1,0 +1,12 @@
+@inproceedings{acl2021b,
+  author    = {Taolin Zhang and
+                Zerui Cai and
+                Chengyu Wang and
+                Minghui Qiu and
+                Bite Yang and
+                Xiaofeng He},
+  title     = {SMedBERT: A Knowledge-Enhanced Pre-trained Language Model with Structured Semantics for Medical Text Mining},
+  booktitle = {Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing},
+  pages     = {5882–5893},
+  year      = {2021}
+}
