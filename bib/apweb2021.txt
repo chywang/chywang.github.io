@@ -1,0 +1,10 @@
+@inproceedings{apweb2021,
+   author    = {Zerui Cai and
+                Taolin Zhang and
+                Chengyu Wang and
+                Xiaofeng He},
+   title     = {EMBERT: A Pre-trained Language Model for Chinese Medical Text Mining},
+   booktitle = {Proceedings of the 5th APWeb-WAIM International Joint Conference on Web and Big Data},
+   pages     = {242--257},
+   year      = {2021}
+ }
