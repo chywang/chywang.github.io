@@ -1,0 +1,10 @@
+@inproceedings{interspeech2021,
+  author    = {Mengli Cheng and
+               Chengyu Wang and
+               Jun Huang and
+               Xiaobo Wang},
+  title     = {Weakly Supervised Construction of ASR Systems from Massive Video Data},
+  booktitle = {Proceedings of the 22nd Annual Conference of the International Speech Communication Association},
+  year      = {2021},
+  pages     = {4533–4537}
+}
