@@ -1,0 +1,15 @@
+@inproceedings{cikm2021c,
+  author    = {Haojie Pan and
+               Cen Chen and
+               Chengyu Wang and
+               Minghui Qiu and
+               Liu Yang and
+               Feng Ji and
+               Jun Huang},
+  title     = {Learning to Expand: Reinforced Response Expansion for Information-seeking
+               Conversations},
+  booktitle = {Proceedings of the 30th {ACM} International Conference on Information
+               and Knowledge Management},
+  pages     = {4055--4064},
+  year      = {2021}
+}
