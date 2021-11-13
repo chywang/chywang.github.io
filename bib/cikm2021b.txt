@@ -1,0 +1,17 @@
+@inproceedings{cikm2021b,
+  author    = {Taolin Zhang and
+               Zerui Cai and
+               Chengyu Wang and
+               Peng Li and
+               Yang Li and
+               Minghui Qiu and
+               Chengguang Tang and
+               Xiaofeng He and
+               Jun Huang},
+  title     = {{HORNET:} Enriching Pre-trained Language Representations with Heterogeneous
+               Knowledge Sources},
+  booktitle = {Proceedings of the 30th {ACM} International Conference on Information
+               and Knowledge Management},
+  pages     = {2608--2617},
+  year      = {2021}
+}
