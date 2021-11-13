@@ -1,0 +1,19 @@
+@inproceedings{cikm2021a,
+  author    = {Minghui Qiu and
+               Peng Li and
+               Chengyu Wang and
+               Haojie Pan and
+               Ang Wang and
+               Cen Chen and
+               Xianyan Jia and
+               Yaliang Li and
+               Jun Huang and
+               Deng Cai and
+               Wei Lin},
+  title     = {EasyTransfer: {A} Simple and Scalable Deep Transfer Learning Platform
+               for {NLP} Applications},
+  booktitle = {Proceedings of the 30th {ACM} International Conference on Information
+               and Knowledge Management},
+  pages     = {4075--4084},
+  year      = {2021}
+}
