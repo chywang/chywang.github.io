@@ -1,0 +1,12 @@
+@inproceedings{emnlp2021a,
+  author    = {Chengyu Wang and
+               Haojie Pan and
+               Minghui Qiu and
+               Jun Huang and
+               Fei Yang and
+               Yin Zhang},
+  title     = {Meta Distant Transfer Learning for Pre-trained Language Models},
+  booktitle = {Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing},
+  pages     = {9742--9752},
+  year      = {2021}
+}
