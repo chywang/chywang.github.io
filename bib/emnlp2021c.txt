@@ -1,0 +1,12 @@
+@inproceedings{emnlp2021c,
+  author    = {Zhi Li and
+            Yuchen Zhai and
+            Chengyu Wang and
+            Minghui Qiu and
+            Kailiang Li and
+            Yin Zhang},
+  title     = {{U}n{C}l{E}: Explicitly Leveraging Semantic Similarity to Reduce the Parameters of Word Embeddings},
+  booktitle = {Findings of the Association for Computational Linguistics: EMNLP 2021},
+  pages = {1815--1828},
+  year      = {2021}
+}
