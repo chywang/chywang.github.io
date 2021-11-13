@@ -1,0 +1,15 @@
+@inproceedings{nlpcc2021,
+  author    = {Ziyun Xu and
+            Chengyu Wang and
+            Peng Li and
+            Yang Li and
+            Ming Wang and
+            Boyu Hou and
+            Minghui Qiu and
+            Chengguang Tang and
+            Jun Huang},
+  title     = {When Few-Shot Learning Meets Large-Scale Knowledge-Enhanced Pre-training: Alibaba at FewCLUE},
+  booktitle = {Natural Language Processing and Chinese Computing},
+  pages =   {422--433},
+  year      = {2021}
+}
