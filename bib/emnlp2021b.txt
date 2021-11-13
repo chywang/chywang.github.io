@@ -1,0 +1,12 @@
+@inproceedings{emnlp2021b,
+  author    = {Chengyu Wang and
+            Jianing Wang and
+            Minghui Qiu and
+            Jun Huang and
+            Ming Gao},
+  title     = {TransPrompt: Towards an Automatic Transferable Prompting Framework
+               for Few-shot Text Classification},
+  booktitle = {Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing},
+  pages     = {2792--2802},
+  year      = {2021}
+}
