@@ -1,0 +1,10 @@
+@inproceedings{wsdm2022,
+  author    = {Yan Fan and
+            Chengyu Wang and
+            Peng He and
+            Yunhua Hu},
+  title     = {Building Multi-turn Query Interpreters for E-commercial Chatbots with Sparse-to-dense Attentive Modeling},
+  booktitle = {Proceedings of the 15th ACM International Conference on Web Search and Data Mining},
+  pages = {1577--1580},
+  year      = {2022}
+}
