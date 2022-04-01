@@ -1,0 +1,15 @@
+@article{taslp2022,
+  author    = {Chengyu Wang and
+               Suyang Dai and
+               Yipeng Wang and
+               Fei Yang and
+               Minghui Qiu and
+               Kehan Chen and
+               Wei Zhou and
+               Jun Huang},
+  title     = {ARoBERT: An ASR Robust Pre-trained Language Model for Spoken Language Understanding},
+  journal   = {{IEEE} {ACM} Trans. Audio Speech Lang. Process.},
+  volume    = {30},
+  pages     = {1207--1218},
+  year      = {2022}
+}
