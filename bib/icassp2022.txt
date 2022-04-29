@@ -1,0 +1,9 @@
+@inproceedings{icassp2022,
+  author    = {Yiwu Yao and
+               Chengyu Wang and
+               Jun Huang},
+  title     = {Quantized Winograd Acceleration for Conv1D Equipped ASR Models on Mobile Devices},
+  booktitle = {Proceedings of the 2022 IEEE International Conference on Acoustics, Speech, and Signal Processing},
+  year      = {2022},
+  pages     = {4804–4807}
+}
