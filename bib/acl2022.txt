@@ -1,0 +1,12 @@
+@inproceedings{acl2022,
+  author    = {Dongyang Li and
+               Taolin Zhang and
+               Nan Hu and
+               Chengyu Wang and
+               Xiaofeng He},
+  title     = {HiCLRE: A Hierarchical Contrastive Learning Framework for Distantly
+               Supervised Relation Extraction},
+  booktitle = {Findings of the Association for Computational Linguistics: ACL 2022},
+  pages     = {2567--2578},
+  year      = {2022}
+}
