@@ -1,0 +1,11 @@
+@inproceedings{sigir2022,
+    author    = {Tingting Liu and
+                Chengyu Wang and
+                Cen Chen and
+                Ming Gao and
+                Aoying Zhou},
+    title     = {Understanding Long Programming Languages with Structure-Aware Sparse Attention},
+    booktitle = {Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+    pages     = {2093–-2098},
+    year      = {2022}
+  }
