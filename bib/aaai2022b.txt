@@ -1,0 +1,13 @@
+@inproceedings{aaai2022b,
+  author    = {Runxin Xu and
+               Fuli Luo and
+               Chengyu Wang and
+               Baobao Chang and
+               Jun Huang and
+               Songfang Huang and
+               Fei Huang},
+  title     = {From Dense to Sparse: Contrastive Pruning for Better Pre-trained Language Model Compression},
+  booktitle = {Proceedings of the 36th AAAI Conference on Artificial Intelligence},
+  year      = {2022},
+  pages     = {11547–11555}
+}
