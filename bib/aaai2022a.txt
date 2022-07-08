@@ -1,0 +1,13 @@
+@inproceedings{aaai2022a,
+  author    = {Taolin Zhang and
+               Chengyu Wang and
+               Nan Hu and
+               Minghui Qiu and
+               Chengguang Tang and
+               Xiaofeng He and
+               Jun Huang},
+  title     = {DKPLM: Decomposable Knowledge-enhanced Pre-trained Language Model for Natural Language Understanding},
+  booktitle = {Proceedings of the 36th AAAI Conference on Artificial Intelligence},
+  year      = {2022},
+  pages     = {11703–11711}
+}
