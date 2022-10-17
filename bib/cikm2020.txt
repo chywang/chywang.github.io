@@ -1,0 +1,10 @@
+@inproceedings{cikm2022,
+  author    = {Chengyu Wang and
+               Minghui Qiu and
+               Jun Huang},
+  title     = {Building Natural Language Processing Applications with EasyNLP},
+  booktitle = {Proceedings of the 31st {ACM} International on Conference on Information
+               and Knowledge Management},
+  pages     = {5100--5101},
+  year      = {2022}
+}
