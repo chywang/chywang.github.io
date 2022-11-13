@@ -1,0 +1,12 @@
+@inproceedings{wise2022,
+  author    = {Lei Li and
+               Dongxiang Zhang and
+               Chengyu Wang and
+               Cheqing Jin and
+               Ming Gao and
+               Aoying Zhou},
+  title     = {Enhancing Seq2seq Math Word Problem Solver with Entity Information and Math Knowledge},
+  booktitle = {Proceedings of the 23rd International Conference on Web Information Systems Engineering},
+  pages     = {370--385},
+  year      = {2022}
+}
