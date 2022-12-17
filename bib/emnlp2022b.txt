@@ -1,0 +1,13 @@
+@inproceedings{emnlp2022b,
+  author    = {Jianing Wang and
+            Chengyu Wang and
+            Minghui Qiu and
+            Qiuhui Shi and
+            Hongbin Wang and
+            Jun Huang and
+            Ming Gao},
+  title     = {KECP: Knowledge Enhanced Contrastive Prompting for Few-shot Extractive Question Answering},
+  booktitle = {Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing},
+  pages     = {3152--3163},
+  year      = {2022}
+}
