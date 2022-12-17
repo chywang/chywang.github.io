@@ -1,0 +1,14 @@
+@inproceedings{emnlp2022e,
+  author    = {Tingting Liu and
+            Chengyu Wang and
+            Xiangru Zhu and
+            Lei Li and
+            Minghui Qiu and
+            Jun Huang and
+            Ming Gao and
+            Yanghua Xiao},
+  title     = {ARTIST: A Transformer-based Chinese Text-to-Image Synthesizer Digesting Linguistic and World Knowledge},
+  booktitle = {Findings of the Association for Computational Linguistics: EMNLP 2022},
+  pages     = {881--888},
+  year      = {2022}
+}
