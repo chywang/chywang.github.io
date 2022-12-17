@@ -1,0 +1,16 @@
+@inproceedings{emnlp2022d,
+  author    = {Jianing Wang and
+            Chengyu Wang and
+            Fuli Luo and
+            Chuanqi Tan and
+            Minghui Qiu and
+            Fei Yang and
+            Quihui Shi and
+            Songfang Huang and
+            Jun Huang and
+            Ming Gao},
+  title     = {Towards Unified Prompt Tuning for Few-shot Text Classification},
+  booktitle = {Findings of the Association for Computational Linguistics: EMNLP 2022},
+  pages     = {524--536},
+  year      = {2022}
+}
