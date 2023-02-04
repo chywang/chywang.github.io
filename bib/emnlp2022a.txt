@@ -1,0 +1,15 @@
+@inproceedings{emnlp2022a,
+  author    = {Chengyu Wang and
+            Minghui Qiu and
+            Taolin Zhang and
+            Tingting Liu and
+            Lei Li and
+            Jianing Wang and
+            Ming Wang and
+            Jun Huang and
+            Wei Lin},
+  title     = {EasyNLP: A Comprehensive and Easy-to-use Toolkit for Natural Language Processing},
+  booktitle = {Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing: System Demonstrations},
+  pages     = {22--29},
+  year      = {2022}
+}
