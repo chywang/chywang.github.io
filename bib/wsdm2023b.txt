@@ -1,0 +1,14 @@
+@inproceedings{wsdm2023b,
+  author    = {Xiaodan Wang and
+                Lei Li and
+                Zhixu Li and
+                Xuwu Wang and
+                Xiangru Zhu and
+                Chengyu Wang and
+                Jun Huang and
+                Yanghua Xiao},
+  title     = {{AGREE:} Aligning Cross-Modal Entities for Image-Text Retrieval Upon Vision-Language Pre-trained Models},
+  booktitle = {Proceedings of the 16th ACM International Conference on Web Search and Data Mining},
+  pages = {456--464},
+  year      = {2023}
+}
