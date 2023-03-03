@@ -1,0 +1,13 @@
+@inproceedings{wsdm2023a,
+  author    = {Ziyun Xu and
+            Chengyu Wang and
+            Minghui Qiu and
+            Fuli Luo and
+            Runxin Xu and
+            Songfang Huang and
+            Jun Huang},
+  title     = {Making Pre-trained Language Models End-to-end Few-shot Learners with Contrastive Prompt Tuning},
+  booktitle = {Proceedings of the 16th ACM International Conference on Web Search and Data Mining},
+  pages = {438--446},
+  year      = {2023}
+}
