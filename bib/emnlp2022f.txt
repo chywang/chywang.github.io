@@ -1,0 +1,15 @@
+@inproceedings{emnlp2022f,
+  author    = {Taolin Zhang and
+            Junwei Dong and
+            Jianing Wang and
+            Chengyu Wang and
+            Ang Wang and
+            Yinhhui Liu and
+            Jun Huang and
+            Yong Li and
+            Xiaofeng He},
+  title     = {Revisiting and Advancing Chinese Natural Language Understanding with Accelerated Heterogeneous Knowledge Pre-training},
+  booktitle = {Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing: Industry Track},
+  pages     = {570--580},
+  year      = {2022}
+}
