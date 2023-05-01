@@ -1,0 +1,12 @@
+@inproceedings{www2023,
+  author    = {Zhongjie Duan and
+               Chengyu Wang and
+               Cen Chen and
+               Wenmeng Zhou and
+               Jun Huang and
+               Weining Qian},
+  title     = {Match4Match: Enhancing Text-Video Retrieval by Maximum Flow with Minimum Cost},
+  booktitle = {Proceedings of the Web Conference 2023},
+  pages     = {3257--3267},
+  year      = {2023}
+}
