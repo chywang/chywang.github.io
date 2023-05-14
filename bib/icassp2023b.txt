@@ -1,0 +1,11 @@
+@inproceedings{icassp2023b,
+  author    = {Boyu Hou and
+               Chengyu Wang and
+               Xiaoqing Chen and
+               Minghui Qiu and
+               Liang Feng and
+               Jun Huang},
+  title     = {Prompt-Distiller: Few-shot Knowledge Distillation for Prompt-based Language Learners with Dual Contrastive Learning},
+  booktitle = {Proceedings of the 2023 IEEE International Conference on Acoustics, Speech, and Signal Processing},
+  year      = {2023}
+}
