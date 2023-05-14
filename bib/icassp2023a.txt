@@ -1,0 +1,11 @@
+@inproceedings{icassp2023a,
+  author    = {Xiaoqing Chen and
+               Chengyu Wang and
+               Junwei Dong and
+               Minghui Qiu and
+               Liang Feng and
+               Jun Huang},
+  title     = {Boosting Prompt-based Few-shot Learners through Out-of-domain Knowledge Distillation},
+  booktitle = {Proceedings of the 2023 IEEE International Conference on Acoustics, Speech, and Signal Processing},
+  year      = {2023}
+}
