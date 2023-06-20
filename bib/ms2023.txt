@@ -1,0 +1,15 @@
+@article{ms2023,
+  author       = {Lei Li and
+                  Tingting Liu and
+                  Chengyu Wang and
+                  Minghui Qiu and
+                  Cen Chen and
+                  Ming Gao and
+                  Aoying Zhou},
+  title        = {Resizing codebook of vector quantization without retraining},
+  journal      = {Multim. Syst.},
+  volume       = {29},
+  number       = {3},
+  pages        = {1499--1512},
+  year         = {2023}
+}
