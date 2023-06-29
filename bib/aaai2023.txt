@@ -1,0 +1,11 @@
+@inproceedings{aaai2023,
+  author    = {Jianing Wang and
+               Chengyu Wang and
+               Jun Huang and
+               Ming Gao and
+               Aoying Zhou},
+  title     = {Uncertainty-Aware Self-Training for Low-Resource Neural Sequence Labeling},
+  booktitle = {Proceedings of the 37th AAAI Conference on Artificial Intelligence},
+  year      = {2023},
+  pages     = {13682–13690}
+}
