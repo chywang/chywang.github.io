@@ -1,0 +1,13 @@
+@article{fcs2024,
+  author    = {Lei Li and
+               Chengyu Wang and
+               Minghui Qiu and
+               Cen Chen and
+               Ming Gao and
+               Aoying Zhou},
+  title     = {Accelerating BERT inference with GPU-efficient exit prediction},
+  journal   = {Frontiers Comput. Sci.},
+  volume    = {18},
+  number    = {3},
+  year      = {2024}
+}
