@@ -1,15 +1,16 @@
 @inproceedings{acl2023d,
-  author    = {Xiaodan Wang and
+  author    = {Bingyan Liu and
+               Weifeng Lin and
+               Zhongjie Duan and
                Chengyu Wang and
-               Lei Li and
-               Zhixu Li and
-               Ben Chen and
-               Linbo Jin and
-               Jun Huang and
-               Yanghua Xiao and
-               Ming Gao},
-  title     = {FashionKLIP: Enhancing E-Commerce Image-Text Retrieval with Fashion Multi-Modal Conceptual Knowledge Graph},
+               Ziheng Wu and
+               Zipeng Zhang and
+               Kui Jia and
+               Lianwen Jin and
+               Cen Chen and
+               Jun Huang},
+  title     = {Rapid Diffusion: Building Domain-Specific Text-to-Image Synthesizers with Fast Inference Speed},
   booktitle = {Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics: Industry Track},
-  pages     = {149--158},
+  pages     = {295--304},
   year      = {2023}
 }
