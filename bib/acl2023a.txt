@@ -1,0 +1,13 @@
+@inproceedings{acl2023a,
+  author    = {Moming Tang and
+                Chengyu Wang and
+                Jianing Wang and
+                Chuanqi Tan and
+                Songfang Huang and
+                Cen Chen and
+                Weining Qian},
+  title     = {XtremeCLIP: Extremely Parameter-efficient Tuning for Low-resource Vision Language Understanding},
+  booktitle = {Findings of the Association for Computational Linguistics: ACL 2023},
+  pages     = {6368–6376},
+  year      = {2023}
+}
