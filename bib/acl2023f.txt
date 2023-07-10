@@ -1,0 +1,13 @@
+@inproceedings{acl2023f,
+  author    = {Huimin Chen and
+                Fengran Mo and
+                Yanhao Wang and
+                Cen Chen and
+                Jian-Yun Nie and
+                Chengyu Wang and
+                Jamie Cui},
+  title     = {A Customized Text Sanitization Mechanism with Differential Privacy},
+  booktitle = {Findings of the Association for Computational Linguistics: ACL 2023},
+  pages     = {5747–5758},
+  year      = {2023}
+}
