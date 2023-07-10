@@ -1,0 +1,12 @@
+@inproceedings{acl2023e,
+  author    = {Zhen-Ru Zhang and
+               Chuanqi Tan and
+               Haiyang Xu and
+               Chengyu Wang and
+               Jun Huang and
+               Songfang Huang},
+  title     = {Towards Adaptive Prefix Tuning for Parameter-Efficient Language Model Fine-tuning},
+  booktitle = {Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics},
+  pages     = {1239–1248},
+  year      = {2023}
+}
