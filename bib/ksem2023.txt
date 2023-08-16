@@ -1,0 +1,16 @@
+@inproceedings{ksem2023,
+  author       = {Moming Tang and
+                  Chengyu Wang and
+                  Jianing Wang and
+                  Cen Chen and
+                  Ming Gao and
+                  Weining Qian},
+  title        = {ParaSum: Contrastive Paraphrasing for Low-Resource Extractive Text
+                  Summarization},
+  booktitle    = {Proceedings of the 16th International Conference on Knowledge Science, Engineering and Management},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {14119},
+  pages        = {106--119},
+  publisher    = {Springer},
+  year         = {2023}
+}
