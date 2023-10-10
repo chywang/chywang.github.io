@@ -1,0 +1,13 @@
+@inproceedings{nlpcc2023,
+  author    = {Jiyong Zhou and
+            Chengyu Wang and
+            Junbing Yan and
+            Jianing Wang and
+            Yukang Xie and
+            Jun Hunag and
+            Ying Gao},
+  title     = {UKT: A Unified Knowledgeable Tuning Framework for Chinese Information Extraction},
+  booktitle = {Natural Language Processing and Chinese Computing},
+  pages =   {210--222},
+  year      = {2023}
+}
