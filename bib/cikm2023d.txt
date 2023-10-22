@@ -1,0 +1,13 @@
+@inproceedings{cikm2023d,
+  author    = {Jianing Wang and
+               Nuo Chen and
+               Qiushi Sun and
+               Wenkang Huang and
+               Chengyu Wang and
+               Ming Gao},
+  title     = {HugNLP: a Unified and Comprehensive Library for Natural Language Processing},
+  booktitle = {Proceedings of the 32nd {ACM} International Conference on Information
+               and Knowledge Management},
+  pages     = {5111--5116},
+  year      = {2023}
+}
