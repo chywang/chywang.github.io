@@ -1,0 +1,13 @@
+@inproceedings{cikm2023b,
+  author    = {Zhenzhen Chu and
+               Chengyu Wang and
+               Cen Chen and
+               Dawei Cheng and
+               Yuqi Liang and
+               Weining Qian},
+  title     = {Learning Invariant Representations for New Product Sales Forecasting via Multi-Granularity Adversarial Learning},
+  booktitle = {Proceedings of the 32nd {ACM} International Conference on Information
+               and Knowledge Management},
+  pages     = {3828--3832},
+  year      = {2023}
+}
