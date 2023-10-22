@@ -1,0 +1,12 @@
+@inproceedings{cikm2023a,
+  author    = {Zhongjie Duan and
+               Chengyu Wang and
+               Cen Chen and
+               Jun Huang and
+               Weining Qian},
+  title     = {Optimal Linear Space Search: Learning to Construct Fast and High-Quality Schedulers for Diffusion Models},
+  booktitle = {Proceedings of the 32nd {ACM} International Conference on Information
+               and Knowledge Management},
+  pages     = {463--472},
+  year      = {2023}
+}
