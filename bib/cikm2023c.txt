@@ -1,0 +1,13 @@
+@inproceedings{cikm2023c,
+  author    = {Yan Fan and
+               Chengyu Wang and
+               Fan Feng and
+               Hengbin Cui and
+               Yuchuan Wu and
+               Yongbin Li},
+  title     = {Learning What to Ask: Mining Product Attributes for E-commerce Sales from Massive Dialogue Corpora},
+  booktitle = {Proceedings of the 32nd {ACM} International Conference on Information
+               and Knowledge Management},
+  pages     = {5031--5035},
+  year      = {2023}
+}
