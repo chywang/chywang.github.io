@@ -1,0 +1,12 @@
+@inproceedings{emnlp2023a,
+  author    = {Tingfeng Cao and
+            Chengyu Wang and
+            Bingyan Liu and
+            Ziheng Wu and
+            Jinhui Zhu and
+            Jun Huang},
+  title     = {BeautifulPrompt: Towards Automatic Prompt Engineering for Text-to-Image Synthesis},
+  booktitle = {Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing: Industry Track},
+  pages     = {1--11},
+  year      = {2023}
+}
