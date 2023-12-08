@@ -1,0 +1,12 @@
+@inproceedings{emnlp2023c,
+  author    = {Junbing Yan and
+            Chengyu Wang and
+            Taolin Zhang and
+            Xiaofeng He and
+            Jun Huang and
+            Wei Zhang},
+  title     = {From Complex to Simple: Unraveling the Cognitive Tree for Reasoning with Small Language Models},
+  booktitle = {Findings of the Association for Computational Linguistics: EMNLP 2023},
+  pages     = {12413--12425},
+  year      = {2023}
+}
