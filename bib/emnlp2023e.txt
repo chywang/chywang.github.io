@@ -1,0 +1,13 @@
+@inproceedings{emnlp2023e,
+  author    = {Jianing Wang and
+            Qiushi Sun and
+            Nuo Chen and
+            Chengyu Wang and
+            Xiang Li and
+            Ming Gao and
+            Jun Huang},
+  title     = {Uncertainty-aware Parameter-Efficient Self-training for Semi-supervised Natural Language Understanding},
+  booktitle = {Findings of the Association for Computational Linguistics: EMNLP 2023},
+  pages     = {7873--7884},
+  year      = {2023}
+}
