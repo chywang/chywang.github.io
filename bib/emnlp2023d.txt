@@ -1,0 +1,15 @@
+@inproceedings{emnlp2023d,
+  author    = {Ruyao Xu and
+            Taolin Zhang and
+            Chengyu Wang and
+            Zhongjie Duan and
+            Cen Chen and
+            Minghui Qiu and
+            Dawei Cheng and
+            Xiaofeng He and
+            Weining Qian},
+  title     = {Learning Knowledge-Enhanced Contextual Language Representations for Domain Natural Language Understanding},
+  booktitle = {Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing},
+  pages     = {1563--1576},
+  year      = {2023}
+}
