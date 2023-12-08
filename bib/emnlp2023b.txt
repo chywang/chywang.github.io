@@ -1,0 +1,11 @@
+@inproceedings{emnlp2023b,
+  author    = {Tingfeng Cao and
+            Chengyu Wang and
+            Chuanqi Tan and
+            Jun Huang and
+            Jinhui Zhu},
+  title     = {Sharing, Teaching and Aligning: Knowledgeable Transfer Learning for Cross-Lingual Machine Reading Comprehension},
+  booktitle = {Findings of the Association for Computational Linguistics: EMNLP 2023},
+  pages     = {455--467},
+  year      = {2023}
+}
