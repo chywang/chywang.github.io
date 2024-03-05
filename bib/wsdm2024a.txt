@@ -1,0 +1,12 @@
+@inproceedings{wsdm2024a,
+  author    = {Yukang Xie and
+            Chengyu Wang and
+            Junbing Yan and
+            Jiyong Zhou and
+            Feiqi Deng and
+            Jun Huang},
+  title     = {Making Small Language Models Better Multi-task Learners with Mixture-of-Task-Adapters},
+  booktitle = {Proceedings of the 17th ACM International Conference on Web Search and Data Mining},
+  pages = {1094--1097},
+  year      = {2024}
+}
