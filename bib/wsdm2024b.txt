@@ -1,0 +1,12 @@
+@inproceedings{wsdm2024b,
+  author    = {Mingyuan Fan and
+            Yang Liu and
+            Cen Chen and
+            Chengyu Wang and
+            Minghui Qiu and
+            Wenmeng Zhou},
+  title     = {Guardian: Guarding against Gradient Leakage with Provable Defense for Federated Learning},
+  booktitle = {Proceedings of the 17th ACM International Conference on Web Search and Data Mining},
+  pages = {190--198},
+  year      = {2024}
+}
