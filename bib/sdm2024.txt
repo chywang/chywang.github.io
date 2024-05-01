@@ -1,0 +1,13 @@
+@inproceedings{sdm2024,
+  author    = {Zhenzhen Chu and
+              Jiayu Chen and
+              Cen Chen and
+              Chengyu Wang and
+              Ziheng Wu and
+              Jun Huang and
+              Weining Qian},
+  title     = {DualToken-ViT: Position-aware Efficient Vision Transformer with Dual Token Fusion},
+  booktitle = {Proceedings of the 2024 SIAM International Conference on Data Mining},
+  pages     = {688–-696},
+  year      = {2024}
+}
