@@ -1,0 +1,13 @@
+@inproceedings{coling2024d,
+  author    = {Dongyang Li and
+              Taolin Zhang and
+              Jiali Deng and
+              Longtao Huang and
+              Chengyu Wang and
+              Xiaofeng He and
+              Hui Xue},
+  title     = {UniPSDA: Unsupervised Pseudo Semantic Data Augmentation for Zero-Shot Cross-Lingual Natural Language Understanding},
+  booktitle = {Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation},
+  pages     = {17062-17073},
+  year      = {2024}
+}
