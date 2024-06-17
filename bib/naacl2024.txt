@@ -1,0 +1,11 @@
+@inproceedings{naacl2024,
+  author    = {Jianing Wang and
+            Chengyu Wang and
+            Chuanqi Tan and
+            Jun Huang and
+            Ming Gao},
+  title     = {Knowledgeable In-Context Tuning: Exploring and Exploiting Factual Knowledge for In-Context Learning},
+  booktitle = {Findings of the Association for Computational Linguistics: NAACL 2024},
+  pages     = {3261--3280},
+  year      = {2024}
+}
