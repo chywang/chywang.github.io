@@ -1,0 +1,11 @@
+@inproceedings{cvpr2024,
+  author    = {Bingyan Liu and
+            Chengyu Wang and
+            Tingfeng Cao and
+            Kui Jia and
+            Jun Huang},
+  title     = {Towards Understanding Cross and Self-Attention in Stable Diffusion for Text-Guided Image Editing},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024},
+  pages     = {7817--7826},
+  year      = {2024}
+}
