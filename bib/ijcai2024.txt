@@ -1,0 +1,11 @@
+@inproceedings{ijcai2024,
+  author       = {Zhongjie Duan and
+                  Chengyu Wang and
+                  Cen Chen and
+                  Weining Qian and
+                  Jun Huang},
+  title        = {Diffutoon: High-Resolution Editable Toon Shading via Diffusion Models},
+  booktitle    = {Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence},
+  pages        = {7645--7653},
+  year         = {2024}
+}
