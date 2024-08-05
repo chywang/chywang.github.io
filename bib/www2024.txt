@@ -1,0 +1,14 @@
+@inproceedings{www2024,
+  author    = {Jiayi Wang and
+               Ke Wang and
+               Fengming Zhou and
+               Chengyu Wang and
+               Zhiyong Fu and
+               Zeyu Feng and
+               Yu Zhao and
+               Yuqi Zhang},
+  title     = {Synslator: An Interactive Machine Translation Tool with Online Learning},
+  booktitle = {Proceedings of the Web Conference 2024, Companion Volume},
+  pages     = {1023--1026},
+  year      = {2024}
+}
