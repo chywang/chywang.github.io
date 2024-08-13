@@ -1,0 +1,11 @@
+@inproceedings{acl2024c,
+  author    = {Jiapeng Wang and
+               Chengyu Wang and
+               Tingfeng Cao and
+               Jun Huang and
+               Lianwen Jin},
+  title     = {DiffChat: Learning to Chat with Text-to-Image Synthesis Models for Interactive Image Creation},
+  booktitle = {Findings of the Association for Computational Linguistics: ACL 2024},
+  pages     = {8826–8840},
+  year      = {2024}
+}
