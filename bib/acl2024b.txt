@@ -1,0 +1,14 @@
+@inproceedings{acl2024b,
+  author    = {Dongyang Li and
+               Junbing Yan and
+               Taolin Zhang and
+               Chengyu Wang and
+               Xiaofeng He and
+               Longtao Huang and
+               Hui Xue and
+               Jun Huang},
+  title     = {On the Role of Long-tail Knowledge in Retrieval Augmented Large Language Models},
+  booktitle = {Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics},
+  pages     = {120–126},
+  year      = {2024}
+}
