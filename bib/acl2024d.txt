@@ -1,0 +1,14 @@
+@inproceedings{acl2024d,
+  author    = {Taolin Zhang and
+               Qizhou Chen and
+               Dongyang Li and
+               Chengyu Wang and
+               Xiaofeng He and
+               Longtao Huang and
+               Hui Xue and
+               Jun Huang},
+  title     = {DAFNet: Dynamic Auxiliary Fusion for Sequential Model Editing in Large Language Models},
+  booktitle = {Findings of the Association for Computational Linguistics: ACL 2024},
+  pages     = {1588–1602},
+  year      = {2024}
+}
