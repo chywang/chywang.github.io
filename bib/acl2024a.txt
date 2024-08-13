@@ -1,0 +1,13 @@
+@inproceedings{acl2024a,
+  author    = {Chengyu Wang and
+               Zhongjie Duan and
+               Bingyan Liu and
+               Xinyi Zou and
+               Cen Chen and
+               Kui Jia and
+               Jun Huang},
+  title     = {PAI-Diffusion: Constructing and Serving a Family of Open Chinese Diffusion Models for Text-to-image Synthesis on the Cloud},
+  booktitle = {Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics: System Demonstrations},
+  pages     = {1–8},
+  year      = {2024}
+}
