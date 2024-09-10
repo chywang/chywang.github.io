@@ -1,0 +1,13 @@
+@inproceedings{ecml2024,
+  author       = {Zhongjie Duan and
+                  Lizhou You and
+                  Chengyu Wang and
+                  Cen Chen and
+                  Ziheng Wu and
+                  Weining Qian and
+                  Jun Huang},
+  title        = {DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis},
+  booktitle    = {Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 2024},
+  pages        = {332--347},
+  year         = {2024}
+}
