@@ -1,0 +1,16 @@
+@inproceedings{ecai2024,
+  author    = {Taolin Zhang and
+               Dongyang Li and
+               Qizhou Chen and
+               Chengyu Wang and
+               Longtao Huang and
+               Hui Xue and
+               Xiaofeng He and
+               Huang Jun},
+  title     = {R4: Reinforced Retriever-Reorder-Responder for Retrieval-Augmented Large Language Models},
+  booktitle = {Proceedings of the 27th European Conference on Artificial Intelligence},
+  series    = {Frontiers in Artificial Intelligence and Applications},
+  volume    = {392},
+  pages     = {2314--2321},
+  year      = {2024}
+}
