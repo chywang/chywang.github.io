@@ -1,0 +1,11 @@
+@inproceedings{mm2024,
+  author       = {Bingyan Liu and
+                  Chengyu Wang and
+                  Jun Huang and
+                  Kui Jia},
+  title        = {Attentive Linguistic Tracking in Diffusion Models for Training-free Text-guided Image Editing},
+  booktitle    = {Proceedings of the 32nd {ACM} International Conference on Multimedia},
+  pages        = {4158--4164},
+  publisher    = {{ACM}},
+  year         = {2024}
+}
