@@ -1,0 +1,10 @@
+@inproceedings{emnlp2024c,
+  author    = {Yuanhao Yue and
+            Chengyu Wang and
+            Jun Huang and
+            Peng Wang},
+  title     = {Distilling Instruction-following Abilities of Large Language Models with Task-aware Curriculum Planning},
+  booktitle = {Findings of the Association for Computational Linguistics: EMNLP 2024},
+  pages     = {6030--6054},
+  year      = {2024}
+}
