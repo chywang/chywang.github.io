@@ -1,0 +1,11 @@
+@inproceedings{emnlp2024a,
+  author    = {Jiapeng Wang
+            Chengyu Wang and
+            Kunzhe Huang and
+            Jun Huang and
+            Lianwen Jin},
+  title     = {VideoCLIP-XL: Advancing Long Description Understanding for Video CLIP Models},
+  booktitle = {Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing},
+  pages     = {16061--16075},
+  year      = {2024}
+}
