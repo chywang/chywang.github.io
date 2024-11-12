@@ -1,0 +1,13 @@
+@inproceedings{emnlp2024b,
+  author    = {Qizhou Chen and
+            Taolin Zhang and
+            Xiaofeng He and
+            Dongyang Li and
+            Chengyu Wang and
+            Longtao Huang and
+            Hui Xue},
+  title     = {Lifelong Knowledge Editing for LLMs with Retrieval-Augmented Continuous Prompt Learning},
+  booktitle = {Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing},
+  pages     = {13565--13580},
+  year      = {2024}
+}
