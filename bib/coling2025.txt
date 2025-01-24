@@ -1,0 +1,10 @@
+@inproceedings{coling2025,
+  author    = {Yuanhao Yue and
+              Chengyu Wang and
+              Jun Huang and
+              Peng Wang},
+  title     = {Building a Family of Data Augmentation Models for Low-cost LLM Fine-tuning on the Cloud},
+  booktitle = {Proceedings of the 31st International Conference on Computational Linguistics: Industry Track},
+  pages     = {431-444},
+  year      = {2025}
+}
