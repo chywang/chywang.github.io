@@ -1,0 +1,12 @@
+@article{tkdd2025,
+  author    = {Mingyuan Fan and
+               Cen Chen and
+               Chengyu Wang and
+               Jun Huang},
+  title     = {Exploiting Pre-Trained Models and Low-Frequency Preference for Cost-Effective Transfer-based Attack},
+  journal   = {ACM Transactions on Knowledge Discovery from Data},
+  volume    = {19},
+  number    = {2},
+  articleno = {52},
+  year      = {2025}
+}
