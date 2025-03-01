@@ -1,0 +1,10 @@
+@article{ijcv2025,
+  author       = {Mingyuan Fan and
+                  Chengyu Wang and
+                  Cen Chen and
+                  Yang Liu and
+                  Jun Huang},
+  title        = {On the Trustworthiness Landscape of State-of-the-art Generative Models: A Survey and Outlook},
+  journal      = {Int. J. Comput. Vis.},
+  year         = {2025}
+}
