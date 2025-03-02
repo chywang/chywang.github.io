@@ -3,7 +3,7 @@
 		Chengyu Wang and
 		Boxing Chen and
 		Zhongkai Hu and
-               Xiaofeng He},
+		Xiaofeng He},
   title     = {SPMM: A Soft Piecewise Mapping Model for Bilingual Lexicon Induction},
   booktitle = {Proceedings of the 2019 SIAM International Conference on Data Mining},
   pages     = {244–-252},
