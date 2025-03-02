@@ -1,0 +1,15 @@
+@inproceedings{iclr2025,
+  author       = {Xiangru Zhu and
+                  Penglei Sun and
+                  Yaoxian Song and
+                  Yanghua Xiao and
+                  Zhixu Li and
+                  Chengyu Wang and
+                  Jun Huang and
+                  Bei Yang and
+                  Xiaoxiao Xu},
+  title        = {Evaluating Semantic Variation in Text-to-Image Synthesis: A Causal Perspective},
+  booktitle    = {The 13th International Conference on Learning Representations},
+  publisher    = {OpenReview.net},
+  year         = {2025}
+}
