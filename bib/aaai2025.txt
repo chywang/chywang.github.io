@@ -1,0 +1,12 @@
+@inproceedings{aaai2025,
+  author    = {Qizhou Chen
+               Taolin Zhang and
+               Chengyu Wang and
+               Xiaofeng He and
+               Dakan Wang and
+               Tingting Liu},
+  title     = {Attribution Analysis Meets Model Editing: Advancing Knowledge Correction in Vision Language Models with VisEdit},
+  booktitle = {Proceedings of the 39th AAAI Conference on Artificial Intelligence},
+  year      = {2025},
+  pages     = {2168–2176}
+}
