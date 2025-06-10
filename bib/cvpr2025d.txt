@@ -1,0 +1,7 @@
+@inproceedings{cvpr2025d,
+  author    = {Wenhui Liao and Jiapeng Wang and Hongliang Li and Chengyu Wang and Jun Huang and Lianwen Jin},
+  title     = {DocLayLLM: An Efficient Multi-modal Extension of Large Language Models for Text-rich Document Understanding},
+  booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
+  year      = {2025},
+  pages     = {4038-4049}
+}

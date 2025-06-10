@@ -1,0 +1,7 @@
+@inproceedings{cvpr2025a,
+  author    = {Qizhou Chen and Chengyu Wang and Dakan Wang and Taolin Zhang and Wangyue Li and Xiaofeng He},
+  title     = {Lifelong Knowledge Editing for Vision Language Models with Low-Rank Mixture-of-Experts},
+  booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
+  year      = {2025},
+  pages     = {9455-9466}
+}

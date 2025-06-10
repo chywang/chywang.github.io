@@ -1,0 +1,7 @@
+@inproceedings{cvpr2025b,
+  author    = {Tongtong Su and Chengyu Wang and Bingyan Liu and Jun Huang and Dongming Lu},
+  title     = {Encapsulated Composition of Text-to-Image and Text-to-Video Models for High-Quality Video Synthesis},
+  booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
+  year      = {2025},
+  pages     = {18209-18218}
+}

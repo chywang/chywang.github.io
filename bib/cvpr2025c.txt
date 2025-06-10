@@ -1,0 +1,7 @@
+@inproceedings{cvpr2025c,
+  author    = {Huan Teng and Yuhui Quan and Chengyu Wang and Jun Huang and Hui Ji},
+  title     = {Fingerprinting Denoising Diffusion Probabilistic Models},
+  booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
+  year      = {2025},
+  pages     = {28811-28820}
+}
