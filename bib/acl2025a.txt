@@ -1,0 +1,11 @@
+@inproceedings{acl2025a,
+  author    = {Taolin Zhang and
+               Dongyang Li and
+               Qizhou Chen and
+               Chengyu Wang and
+               Xiaofeng He},
+  title     = {BELLE: A Bi-Level Multi-Agent Reasoning Framework for Multi-Hop Question Answering},
+  booktitle = {Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics},
+  pages     = {4184–4202},
+  year      = {2025}
+}
