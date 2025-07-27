@@ -1,0 +1,10 @@
+@inproceedings{acl2025b,
+  author    = {Chengyu Wang and
+               Junbing Yan and
+               Yuanhao Yue and
+               Jun Huang},
+  title     = {DistilQwen2.5: Industrial Practices of Training Distilled Open Lightweight Language Models},
+  booktitle = {Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Industry Track)},
+  pages     = {32–42},
+  year      = {2025}
+}
