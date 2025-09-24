@@ -1,0 +1,10 @@
+@inproceedings{ijcai2025b,
+  author       = {Jiapeng Wang and
+                  Chengyu Wang and
+                  Jun Huang and
+                  Lianwen Jin},
+  title        = {Hallucination-Aware Prompt Optimization for Text-to-Video Synthesis},
+  booktitle    = {Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence},
+  pages        = {10198--10206},
+  year         = {2025}
+}
