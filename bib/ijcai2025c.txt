@@ -1,0 +1,12 @@
+@inproceedings{ijcai2025c,
+  author       = {Zhongjie Duan and
+                  Chengyu Wang and
+                  Cen Chen and
+                  Weining Qian and
+                  Jun Huang and
+                  Mingyi Jin},
+  title        = {FastBlend: Enhancing Video Stylization Consistency via Model-Free Patch},
+  booktitle    = {Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence},
+  pages        = {10072--10080},
+  year         = {2025}
+}
