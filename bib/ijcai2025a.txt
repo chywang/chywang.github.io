@@ -1,0 +1,11 @@
+@inproceedings{ijcai2025a,
+  author       = {Tongtong Su and
+                  Chengyu Wang and
+                  Bingyan Liu and
+                  Jun Huang and
+                  Dongming Lu},
+  title        = {AdaptEdit: An Adaptive Correspondence Guidance Framework for Reference-Based Video Editing},
+  booktitle    = {Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence},
+  pages        = {10180--10188},
+  year         = {2025}
+}
