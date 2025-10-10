@@ -1,0 +1,11 @@
+@inproceedings{usenixsecurity2025,
+  author       = {Mingyuan Fan and
+                  Cen Chen and
+                  Chengyu Wang and
+                  Xiaodan Li and
+                  Wenmeng Zhou},
+  title        = {Refiner: Data Refining against Gradient Leakage Attacks in Federated Learning},
+  booktitle    = {34th {USENIX} Security Symposium},
+  publisher    = {{USENIX} Association},
+  year         = {2025}
+}
