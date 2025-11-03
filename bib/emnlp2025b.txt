@@ -1,0 +1,12 @@
+@inproceedings{emnlp2025b,
+  author    = {Wenrui Cai and
+            Chengyu Wang and 
+            Junbing Yan and
+            Jun Huang and
+            Xiangzhong Fang},
+  title     = {Thinking with DistilQwen: A Tale of Four Distilled Reasoning and Reward
+Model Series},
+  booktitle = {Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing: Industry Track},
+  pages     = {1357--1365},
+  year      = {2025}
+}
