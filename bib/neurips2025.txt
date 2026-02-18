@@ -1,0 +1,12 @@
+@inproceedings{neurips2025,
+  author    = {Qizhou Chen and
+              Dakan Wang and
+              Taolin Zhang and
+              Zaoming Yan and
+              Chengsong You and
+              Chengyu Wang and
+              Xiaofeng He},
+  title     = {UniEdit: {A} Unified Knowledge Editing Benchmark for Large Language Models},
+  booktitle = {Advances in Neural Information Processing Systems 38. NeurIPS 2025},
+  year      = {2015}
+}
