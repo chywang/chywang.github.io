@@ -1,0 +1,11 @@
+@article{fcs2026,
+  author    = {Chengyu Wang and
+               Taolin Zhang and
+               Richang Hong and
+               Jun Huang},
+  title     = {A short survey on small reasoning models: training, inference, applications, and research directions},
+  journal   = {Frontiers Comput. Sci.},
+  volume    = {20},
+  number    = {11},
+  year      = {2026}
+}
