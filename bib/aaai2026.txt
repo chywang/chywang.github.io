@@ -1,0 +1,11 @@
+@inproceedings{aaai2026,
+  author    = {Tongtong Su and
+               Chengyu Wang and
+               Haipeng Liao and
+               Jun Huang and
+               Dongming Lu},
+  title     = {Zero-to-Hero: Empowering Video Appearance Transfer with Zero-Shot Initialization and Holistic Restoration},
+  booktitle = {Proceedings of the 40th AAAI Conference on Artificial Intelligence},
+  year      = {2026},
+  pages     = {9153–9160}
+}
