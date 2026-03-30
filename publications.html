@@ -465,6 +465,10 @@
                     <li type="journal"><b>HEEL: Exploratory Entity Linking for Heterogeneous Information Networks</b> <a href="papers/kais2019.pdf">[pdf]</a><a href="bib/kais2019.txt">[bib]</a><a href="https://github.com/chywang/HEEL">[code]</a><br/>
                     <b>Chengyu Wang</b>, Xiaofeng He, Aoying Zhou<br/>
                     Knowledge and Information Systems (<b>KAIS 2020</b>, <i>CCF-B</i>)</li><br/>
+
+                    <li type="thesis"><b>Algorithmic Studies on Relation Extraction from Chinese Short Texts</b> (in Chinese with English abstract) <a href="papers/phd.pdf">[pdf]</a><br/>
+                    <b>Chengyu Wang</b><br/>
+                    PhD Thesis/li><br/>
                 </ul>
 
                 <h5>2019</h5>
@@ -492,6 +496,10 @@
                     <li type="journal"><b>Decoding Chinese User Generated Categories for Fine-grained Knowledge Harvesting</b> <a href="papers/tkde2018.pdf">[pdf]</a><a href="bib/tkde2018.txt">[bib]</a><a href="https://github.com/chywang/CN-WikiCatReader">[code]</a><a href="data/tkde.zip">[data]</a><br/>
                     <b>Chengyu Wang</b>, Yan Fan, Xiaofeng He, Aoying Zhou<br/>
                     IEEE Transactions on Knowledge and Data Engineering (<b>TKDE 2019</b>, <i>CCF-A</i>)</li><br/>
+
+                    <li type="journal-zh"><b>Word Embedding Projection Models for Hypernymy Relation Prediction</b> (in Chinese with English abstract) <a href="papers/cjc2019.pdf">[pdf]</a><br>
+                    <b>Chengyu Wang</b>, Xiaofeng He, Xueqing Gong, Aoying Zhou<br>
+                    Chinese Journal of Computers (<b>CJC 2019</b>, <i>CCF-A Chinese</i>)</li><br>
                 </ul>
 
                 <h5>2018</h5>
@@ -569,7 +577,7 @@
 
 <script>
 (function(){
-  let cCount = 1, jCount = 1;
+  let cCount = 1, jCount = 1, cjCount = 1, tCount = 1;
   document.querySelectorAll('li[type]').forEach(function(li) {
     let type = li.getAttribute('type');
     let badge = document.createElement('span');
@@ -578,6 +586,10 @@
       badge.textContent = '[C' + cCount++ + '] ';
     } else if (type === 'journal') {
       badge.textContent = '[J' + jCount++ + '] ';
+    } else if (type === 'journal-zh') {
+      badge.textContent = '[CJ' + cjCount++ + '] ';    
+    } else if (type === 'thesis') {
+      badge.textContent = '[T' + tCount++ + '] ';
     }
     li.insertBefore(badge, li.firstChild);
   });
