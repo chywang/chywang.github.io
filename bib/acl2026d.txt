@@ -1,0 +1,14 @@
+@inproceedings{acl2026d,
+  author    = {Taolin Zhang and
+               Dongyang Li and
+               Chen Chen and
+               Qizhou Chen and
+               Jiuheng Wan and
+               Xiaofeng He and
+               Chengyu Wang and
+               Richang Hong},
+  title     = {AMATA: Adaptive Multi-Agent Trajectory Alignment for Knowledge-Intensive Question Answering},
+  booktitle = {Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics},
+  pages     = {7879–7900},
+  year      = {2026}
+}
