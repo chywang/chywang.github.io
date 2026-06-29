@@ -1,0 +1,11 @@
+@inproceedings{acl2026g,
+  author    = {Chuan Li and
+               Ye Lyu and
+               Chengyu Wang and
+               Mingyuan Fan and
+               Cen Chen},
+  title     = {MedCoach: Enhancing Medical Reasoning in LLMs via Knowledge Graph-Augmented Chain-of-Thought Distillation},
+  booktitle = {Findings of the Association for Computational Linguistics: ACL 2026},
+  pages     = {33724–33743},
+  year      = {2026}
+}
