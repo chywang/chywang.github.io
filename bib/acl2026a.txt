@@ -1,0 +1,11 @@
+@inproceedings{acl2026a,
+  author    = {Wenrui Cai and
+               Chengyu Wang and
+               Junbing Yan and
+               Jun Huang and
+               Xiangzhong Fang},
+  title     = {Reasoning with OmniThought: A Large CoT Dataset with Verbosity and Cognitive Difficulty Annotations},
+  booktitle = {Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics},
+  pages     = {8431–8450},
+  year      = {2026}
+}
