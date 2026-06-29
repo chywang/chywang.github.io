@@ -1,0 +1,13 @@
+@inproceedings{acl2026f,
+  author    = {Taolin Zhang and
+               Haidong Kang and
+               Dongyang Li and
+               Qizhou Chen and
+               Xiaofeng He and
+               Chengyu Wang and
+               Richang Hong},
+  title     = {QueueEDIT: Structural Self-Correction for Sequential Model Editing in LLMs},
+  booktitle = {Findings of the Association for Computational Linguistics: ACL 2026},
+  pages     = {4706–4719},
+  year      = {2026}
+}
