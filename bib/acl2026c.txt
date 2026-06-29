@@ -1,0 +1,13 @@
+@inproceedings{acl2026c,
+  author    = {Yuanjie Lyu and
+               Chengyu Wang and
+               Haonan Zheng and
+               Yuanhao Yue and
+               Junbing Yan and
+               Ming Wang and
+               Jun Huang},
+  title     = {AgenticQwen: Training Small Agentic Language Models with Dual Data Flywheels for Industrial-Scale Tool Use},
+  booktitle = {Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Industry Track)},
+  pages     = {535–551},
+  year      = {2026}
+}
