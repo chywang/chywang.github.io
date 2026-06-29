@@ -1,0 +1,14 @@
+@inproceedings{acl2026e,
+  author    = {Taolin Zhang and
+               Pukun Zhao and
+               Qizhou Chen and
+               Jiuheng Wan and
+               Chen Chen and
+               Xiaofeng He and
+               Chengyu Wang and
+               Richang Hong},
+  title     = {Taming "Zombie" Agents: A Markov State-Aware Framework for Resilient Multi-Agent Evolution},
+  booktitle = {Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics},
+  pages     = {8224–8243},
+  year      = {2026}
+}
