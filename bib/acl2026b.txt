@@ -1,0 +1,11 @@
+@inproceedings{acl2026b,
+  author    = {Yuanjie Lyu and
+               Chengyu Wang and
+               Lei Shen and
+               Jun Huang and
+               Tong Xu},
+  title     = {Mock Worlds, Real Skills: Building Small Agentic Language Models with Synthetic Tasks, Simulated Environments, and Rubric-Based Rewards},
+  booktitle = {Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics},
+  pages     = {12529–12545},
+  year      = {2026}
+}
