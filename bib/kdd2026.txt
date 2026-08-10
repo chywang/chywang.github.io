@@ -1,0 +1,12 @@
+@inproceedings{kdd2026,
+  author    = {Lei Shen and
+                Chengyu Wang and
+                Yuanjie Lyu and
+                Yuanhao Yue and
+                Jun Huang and
+                Zhongmin Cai},
+  title     = {Self-Evolutionary Reinforced Knowledge Distillation for Multi-Modal Tool-Use Agents},
+  booktitle = {Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  year      = {2026},
+  pages     = {4195–4206}
+}
