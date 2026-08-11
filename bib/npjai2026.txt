@@ -1,0 +1,10 @@
+@article{npjai2026,
+  author    = {Qizhou Chen and
+               Chengyu Wang and
+               Taolin Zhang and
+               Xiaofeng He},
+  title     = {An information-theoretic framework for robust large language model editing},
+  journal   = {npj Artificial Intelligence},
+  volume    = {61},
+  year      = {2026}
+}
