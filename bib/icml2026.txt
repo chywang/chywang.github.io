@@ -1,0 +1,14 @@
+@inproceedings{icml2026,
+  author    = {Yuanjie Lyu and
+               Chengyu Wang and
+               Jun Huang and
+               Tong Xu},
+  title     = {Student-Centered Distillation Narrows the Agentic Gap Between Small and Large LLMs},
+  booktitle = {Proceedings of the 43rd International Conference on Machine Learning},
+  year      = {2026},
+  pages     = {84006–84029},
+  volume    = {306},
+  series    = {Proceedings of Machine Learning Research},
+  month     = {06--11 Jul},
+  publisher = {PMLR}
+}
