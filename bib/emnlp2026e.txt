@@ -1,0 +1,11 @@
+@inproceedings{emnlp2026e,
+  author    = {Ye Lyu and
+               Chuan Li and
+               Chengyu Wang and
+               Mingyuan Fan and
+               Cen Chen},
+  title     = {{LAK}-{L}o{RA}: Layer-Wise Adaptive Expert Allocation and Principal Component-Based Feature Separation for Medical Multi-Task Learning},
+  booktitle = {Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing},
+  pages     = {32150--32171},
+  year      = {2026}
+}
