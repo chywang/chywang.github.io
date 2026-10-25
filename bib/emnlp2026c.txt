@@ -1,0 +1,12 @@
+@inproceedings{emnlp2026c,
+  author    = {Yuanhao Yue and
+               Qianli Ma and
+               Chengyu Wang and
+               Haoting Wang and
+               Lei Shen and
+               Jun Huang},
+  title     = {Not All Prompts Are Equal: Exploration-Guided Prompt Scaffolding for Multimodal Reinforcement Post-Training},
+  booktitle = {Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing},
+  pages     = {9522--9539},
+  year      = {2026}
+}
