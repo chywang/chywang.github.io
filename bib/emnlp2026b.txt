@@ -1,0 +1,12 @@
+@inproceedings{emnlp2026b,
+  author    = {Chuan Li and
+               Chengyu Wang and
+               Cen Chen and
+               Ye Lyu and
+               Mingyuan Fan and
+               Ming Gao},
+  title     = {{SAGE}: Semantic Anchor-Guided Evolution for Grounded Medical {QA} Data Synthesis},
+  booktitle = {Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing},
+  pages     = {4027--4046},
+  year      = {2026}
+}
