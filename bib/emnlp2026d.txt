@@ -1,0 +1,15 @@
+@inproceedings{emnlp2026d,
+  author    = {Yibo Xue and
+               Pin Zheng and
+               Chengyu Wang and
+               Yukun Kang and
+               Yuanjie Lyu and
+               Ming Wang and
+               Jian Peng and
+               Jun Huang and
+               Changliang Xu},
+  title     = {Fake It Till You Make It: Training Deep-Search Agents in Synthetic Search Environments},
+  booktitle = {Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing},
+  pages     = {21347--21372},
+  year      = {2026}
+}
