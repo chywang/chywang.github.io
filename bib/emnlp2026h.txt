@@ -1,0 +1,14 @@
+@inproceedings{emnlp2026h,
+  author    = {Yibo Wang and
+               Yongcheng Jing and
+               Shunyu Liu and
+               Hao Guan and
+               Rong-Cheng Tu and
+               Chengyu Wang and
+               Jun Huang and
+               Dacheng Tao},
+  title     = {{VTC}-{R}1: Vision-Text Compression for Efficient Long-Context Reasoning},
+  booktitle = {Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing},
+  pages     = {35560--35578},
+  year      = {2026}
+}
