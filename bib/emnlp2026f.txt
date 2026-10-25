@@ -1,0 +1,11 @@
+@inproceedings{emnlp2026f,
+  author    = {Yifu Ding and
+               Yongcheng Jing and
+               Chengyu Wang and
+               Jun Huang and
+               Dacheng Tao},
+  title     = {Orchestrating Hidden-Intermediate Pruning-and-Distill for {M}o{E}s Slimming},
+  booktitle = {Findings of the Association for Computational Linguistics: EMNLP 2026},
+  pages     = {31286--31305},
+  year      = {2026}
+}
