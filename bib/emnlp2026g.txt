@@ -1,0 +1,15 @@
+@inproceedings{emnlp2026g,
+  author    = {Pin Zheng and
+               Yibo Xue and
+               Ming Wang and
+               Yukun Kang and
+               Haonan Zheng and
+               Chengyu Wang and
+               Jian Peng and
+               Jun Huang and
+               Changliang Xu},
+  title     = {P-{S}earch: A Parallel Plan--Act--Verify Framework with Decoupled {GRPO} for Deep Research},
+  booktitle = {Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing},
+  pages     = {13074--13098},
+  year      = {2026}
+}
