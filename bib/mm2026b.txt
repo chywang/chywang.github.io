@@ -1,0 +1,15 @@
+@inproceedings{mm2026b,
+  author       = {Taolin Zhang and
+  		            Weizi Shao and
+		              Zijie Zhou and
+  		            Chen Chen and
+		              Daiyang Yu and
+  		            Tingyuan Hu and
+  		            Chengyu Wang and
+                  Xiaofeng He},
+  title        = {M3Prune: Hierarchical Collaborative Pruning for Efficient Multi-Modal Multi-Agent Retrieval-Augmented Generation},
+  booktitle    = {Proceedings of the 34th {ACM} International Conference on Multimedia},
+  pages        = {14781--14790},
+  publisher    = {{ACM}},
+  year         = {2026}
+}
