@@ -1,0 +1,12 @@
+@inproceedings{mm2026a,
+  author       = {Dongyang Li and
+  		            Luobin Huang and
+		              Taolin Zhang and
+  		            Xiaofeng He and
+                  Chengyu Wang},
+  title        = {From Discord to Accord: A Consensus-Driven Multi-Agent Framework for Multi-Modal Question Answering},
+  booktitle    = {Proceedings of the 34th {ACM} International Conference on Multimedia},
+  pages        = {4446--4455},
+  publisher    = {{ACM}},
+  year         = {2026}
+}
